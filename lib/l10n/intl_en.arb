@@ -1,0 +1,32 @@
+{
+  "Enter_Mail_ID" : "Enter valid Email ID",
+  "Foodie" : "Foodie",
+  "Login_Route" : "/login",
+  "Home_Route" : "/home",
+  "Register_Route" : "/register",
+  "Welcome" : "Welcome",
+  "Logout" : "Logout",
+  "Sign_up" : "Sign up",
+  "New_member" : "New member ?",
+  "Bites" : "Bites",
+  "Enter_valid_password" : "Password must contain upper, lower case, digit, special character.",
+  "Password" : "Password",
+  "Enter_password" : "Enter password",
+  "hintMail" : "xyz@gmail.com",
+  "Email" : "Email",
+  "Register" : "Register",
+  "Here" : "Here.",
+  "hintname" : "Firstname Middlename Lastname",
+  "name" : "Name",
+  "Contact_No" : "10 digit Contact No.",
+  "contact" : "Contact",
+  "NameError" : "Enter valid Name.",
+  "valid_contact" : " Enter valid Contact ",
+  "An_Error_Occured" : "An Error Occured",
+  "okay" : "Okay",
+  "Login_Failed" : "Login Failed. Please try again later.",
+  "Registration_Failed" : "Registration Failed. Please try again later.",
+  "Error" : "Error"
+
+
+}

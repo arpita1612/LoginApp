@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "501069088598",
+    "project_id": "arpitademo",
+    "storage_bucket": "arpitademo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501069088598:android:3de34e0112d19c0c0bb8f7",
+        "android_client_info": {
+          "package_name": "com.example.login_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501069088598-0evf94lbi2a8rm6p6vteao817d427umb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_demo",
+            "certificate_hash": "262ad16725a1e5c12a95f8d5bc588f41abf1cac8"
+          }
+        },
+        {
+          "client_id": "501069088598-fdfsbc7ca2orpbqfh2538o7oj4c9j835.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqP6obVYQW5avFh6ZdZrYuxxdTgEqO6Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501069088598-fdfsbc7ca2orpbqfh2538o7oj4c9j835.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
